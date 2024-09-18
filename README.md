@@ -1,5 +1,7 @@
 > **Benchmarking VLMs’ Reasoning About Persuasive Atypical Images** <br>
-> [Sina Malakouti](https://sinamalakouti.github.io/), [Aysan Aghazadeh](https://aysanaghazadeh.github.io/), [Ashmit Khandelwal](https://ashmitkx.github.io/), and [Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/)<br>
+[Sina Malakouti](https://sinamalakouti.github.io/) (Co-first author), [Aysan Aghazadeh](https://aysanaghazadeh.github.io/) (Co-first author), [Ashmit Khandelwal](https://ashmitkx.github.io/), and [Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/)
+
+
 
 This is the official repo for Benchmarking VLMs’ Reasoning About Persuasive Atypical Images.
 
